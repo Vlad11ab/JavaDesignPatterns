@@ -1,0 +1,4 @@
+volkswagen,negru,1000
+audi,alb,5000
+bmw,rosu,2000
+mercedes,albastru,3500
