@@ -11,13 +11,13 @@ public class ShapeFactory {
         if (shapeType == null) {
             return null;
         }
-        if (shapeType.equalsIgnoreCase("Circle")) {
+        if (shapeType.equalsIgnoreCase("CIRCLE")) {
             return new Circle();
         }
-        if (shapeType.equalsIgnoreCase("Rectangle")) {
+        if (shapeType.equalsIgnoreCase("RECTANGLE")) {
             return new Rectangle();
         }
-        if (shapeType.equalsIgnoreCase("Square")) {
+        if (shapeType.equalsIgnoreCase("SQUARE")) {
             return new Square();
         }
 
