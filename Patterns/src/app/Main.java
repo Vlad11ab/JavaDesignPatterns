@@ -1,11 +1,7 @@
 package app;
 
 
-import app.builder.builders.Builder;
-import app.builder2.User;
-import app.builder3.Order;
-import app.singleton.view.View;
-import app.singleton.view.View2;
+import app.builderpattern.builder3.Order;
 
 public class Main {
     public static void main(String[] args) {
