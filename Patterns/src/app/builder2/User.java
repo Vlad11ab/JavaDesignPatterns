@@ -56,7 +56,7 @@ public class User {
         public User build() {
             //conditii
 
-            return  new User(this);
+            return new User(this);
         }
     }
 
